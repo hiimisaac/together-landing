@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Together logo">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ca8f4c" />
+      <stop offset="100%" stop-color="#1f6b5f" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="#f7f3ee" />
+  <circle cx="48" cy="64" r="24" fill="url(#g)" opacity="0.92" />
+  <circle cx="80" cy="64" r="24" fill="url(#g)" opacity="0.74" />
+</svg>
