@@ -17,8 +17,8 @@
       <h1>Terms and Conditions</h1>
       <p class="muted">Effective date: February 19, 2026</p>
       <p class="muted">
-        These Terms and Conditions (“Terms”) form a legal agreement between you and Together Technologies,
-        Inc. (“Together,” “we,” “us”) governing your use of the Together website and services.
+        These Terms and Conditions (“Terms”) form a legal agreement between you and Isaac Barham,
+        operating Together (“I,” “me,” “my”), governing your use of the Together website and services.
       </p>
     </header>
 
@@ -125,9 +125,9 @@
     <section>
       <h2>11. Limitation of Liability</h2>
       <p>
-        To the fullest extent allowed by law, Together and its affiliates will not be liable for indirect,
-        incidental, special, consequential, or punitive damages, or for lost profits, revenues, data, or
-        goodwill arising from your use of the service.
+        To the fullest extent allowed by law, I will not be liable for indirect, incidental, special,
+        consequential, or punitive damages, or for lost profits, revenues, data, or goodwill arising from
+        your use of the service.
       </p>
       <p>
         Our aggregate liability for claims related to the service is limited to the amount you paid to us in

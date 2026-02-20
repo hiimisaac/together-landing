@@ -13,7 +13,7 @@
       <h1>Privacy Policy</h1>
       <p class="muted">Effective date: February 19, 2026</p>
       <p class="muted">
-        This Privacy Policy explains how Together Technologies, Inc. (“Together,” “we,” “us”) collects,
+        This Privacy Policy explains how Isaac Barham, operating Together (“I,” “me,” “my”), collects,
         uses, discloses, and protects personal information when you use the Together website and app.
       </p>
     </header>
