@@ -18,9 +18,9 @@
 
     <nav aria-label="Support links">
       <h2>Support</h2>
-      <a class="link-animated" href="mailto:support@together.app">Help center</a>
-      <a class="link-animated" href="mailto:support@together.app">Contact</a>
-      <a class="link-animated" href="mailto:support@together.app">Status</a>
+      <a class="link-animated" href="mailto:tandemapp@isaacbarham.com">Help center</a>
+      <a class="link-animated" href="mailto:tandemapp@isaacbarham.com">Contact</a>
+      <a class="link-animated" href="mailto:tandemapp@isaacbarham.com">Status</a>
     </nav>
 
     <nav aria-label="Legal links">

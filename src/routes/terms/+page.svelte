@@ -173,7 +173,7 @@
       <h2>16. Contact</h2>
       <p>
         Questions regarding these Terms can be sent to
-        <a href="mailto:legal@together.app">legal@together.app</a>.
+        <a href="mailto:tandemapp@isaacbarham.com">tandemapp@isaacbarham.com</a>.
       </p>
     </section>
   </div>

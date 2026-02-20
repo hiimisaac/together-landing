@@ -9,7 +9,7 @@
       <p class="muted">Start Together and build a calmer rhythm for everyday commitments.</p>
       <div class="button-row">
         <a class="btn btn-primary" href={`${base}/`}>Start free trial</a>
-        <a class="btn btn-tertiary" href="mailto:support@together.app">Talk to support</a>
+        <a class="btn btn-tertiary" href="mailto:tandemapp@isaacbarham.com">Talk to support</a>
       </div>
     </div>
   </div>

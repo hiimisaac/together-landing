@@ -125,7 +125,7 @@
         <li>Request portability of your information.</li>
         <li>Withdraw consent where processing is based on consent.</li>
       </ul>
-      <p>To exercise rights, contact <a href="mailto:privacy@together.app">privacy@together.app</a>.</p>
+      <p>To exercise rights, contact <a href="mailto:tandemapp@isaacbarham.com">tandemapp@isaacbarham.com</a>.</p>
     </section>
 
     <section>
@@ -156,7 +156,7 @@
       <h2>13. Contact</h2>
       <p>
         Questions about privacy can be sent to
-        <a href="mailto:privacy@together.app">privacy@together.app</a>.
+        <a href="mailto:tandemapp@isaacbarham.com">tandemapp@isaacbarham.com</a>.
       </p>
     </section>
   </div>
