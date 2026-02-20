@@ -13,5 +13,6 @@ describe('landing page', () => {
 
     expect(screen.getByRole('link', { name: 'Privacy' }).getAttribute('href')).toBe('/privacy');
     expect(screen.getByRole('link', { name: 'Terms' }).getAttribute('href')).toBe('/terms');
+    expect(screen.getByRole('link', { name: 'Help center' }).getAttribute('href')).toBe('/support');
   });
 });
