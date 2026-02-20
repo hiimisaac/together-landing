@@ -5,7 +5,7 @@
   let { items } = $props<{ items: Testimonial[] }>();
 </script>
 
-<SectionShell eyebrow="Testimonials" title="Couples using Together report less day-to-day friction">
+<SectionShell eyebrow="Testimonials" title="Couples using Tandem report less day-to-day friction">
   <div class="quotes" role="list">
     {#each items as item}
       <figure class="panel quote interactive-card" role="listitem">

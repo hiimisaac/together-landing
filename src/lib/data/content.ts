@@ -56,7 +56,7 @@ export const steps: Step[] = [
 export const testimonials: Testimonial[] = [
   {
     quote:
-      'Together replaced the “did you do that?” loop. We now have one calm place to decide, track, and close tasks.',
+      'Tandem replaced the “did you do that?” loop. We now have one calm place to decide, track, and close tasks.',
     name: 'Maya R.',
     relationship: 'Married, 6 years'
   },

@@ -4,10 +4,10 @@
 </script>
 
 <svelte:head>
-  <title>Together | Accountability for Couples</title>
+  <title>Tandem | Accountability for Couples</title>
   <meta
     name="description"
-    content="Together helps couples coordinate commitments with shared tasks, transparent status, and in-task chat."
+    content="Tandem helps couples coordinate commitments with shared tasks, transparent status, and in-task chat."
   />
   <link rel="icon" href={`${base}/favicon.svg`} />
 </svelte:head>

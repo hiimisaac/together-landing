@@ -1,6 +1,6 @@
-# Together Landing (SvelteKit)
+# Tandem Landing (SvelteKit)
 
-Marketing landing page for Together, an accountability app for couples.
+Marketing landing page for Tandem, an accountability app for couples.
 
 ## Requirements
 - Node.js 20+

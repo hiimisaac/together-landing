@@ -1,8 +1,8 @@
 <svelte:head>
-  <title>Privacy Policy | Together</title>
+  <title>Privacy Policy | Tandem</title>
   <meta
     name="description"
-    content="Together Privacy Policy describing how we collect, use, and protect personal data, including Firebase and Google Analytics usage."
+    content="Tandem Privacy Policy describing how we collect, use, and protect personal data, including Firebase and Google Analytics usage."
   />
 </svelte:head>
 
@@ -13,8 +13,8 @@
       <h1>Privacy Policy</h1>
       <p class="muted">Effective date: February 19, 2026</p>
       <p class="muted">
-        This Privacy Policy explains how Isaac Barham, operating Together (“I,” “me,” “my”), collects,
-        uses, discloses, and protects personal information when you use the Together website and app.
+        This Privacy Policy explains how Isaac Barham, operating Tandem (“I,” “me,” “my”), collects,
+        uses, discloses, and protects personal information when you use the Tandem website and app.
       </p>
     </header>
 
@@ -57,7 +57,7 @@
     <section>
       <h2>3. How We Use Personal Information</h2>
       <ul>
-        <li>Provide, maintain, and improve Together.</li>
+        <li>Provide, maintain, and improve Tandem.</li>
         <li>Create and manage accounts and authenticate users.</li>
         <li>Enable shared tasks, status tracking, reminders, and in-task communication.</li>
         <li>Send service-related messages, security notifications, and support responses.</li>
@@ -139,7 +139,7 @@
     <section>
       <h2>11. Children’s Privacy</h2>
       <p>
-        Together is not directed to children under 13 (or higher age where required by local law), and we
+        Tandem is not directed to children under 13 (or higher age where required by local law), and we
         do not knowingly collect personal information from children.
       </p>
     </section>

@@ -6,7 +6,7 @@
   id="trust"
   eyebrow="Trust and Safety"
   title="Built for private coordination and respectful accountability"
-  intro="Together is designed to lower relationship friction while protecting personal data and reducing abusive communication patterns."
+  intro="Tandem is designed to lower relationship friction while protecting personal data and reducing abusive communication patterns."
 >
   <div class="grid trust-grid">
     <article class="panel trust-card interactive-card">
@@ -21,7 +21,7 @@
       <p class="label">Privacy Controls</p>
       <h3>Clear data handling and PII stewardship</h3>
       <p class="muted">
-        We collect account email and operational data needed to run Together. Usage analytics are measured
+        We collect account email and operational data needed to run Tandem. Usage analytics are measured
         through Google Analytics with policy-level transparency and user rights pathways.
       </p>
     </article>

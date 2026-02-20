@@ -1,8 +1,8 @@
 <header class="section header-wrap" aria-label="Top navigation">
   <div class="container panel nav-shell">
-    <a href="#top" class="brand" aria-label="Together home">
+    <a href="#top" class="brand" aria-label="Tandem home">
       <span class="brand-mark" aria-hidden="true"></span>
-      Together
+      Tandem
     </a>
 
     <nav aria-label="Primary">
@@ -13,7 +13,7 @@
       </ul>
     </nav>
 
-    <a class="btn btn-secondary" href="#final-cta">Try Together</a>
+    <a class="btn btn-secondary" href="#final-cta">Try Tandem</a>
   </div>
 </header>
 

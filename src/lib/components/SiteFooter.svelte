@@ -5,7 +5,7 @@
 <footer class="section footer" aria-label="Footer">
   <div class="container panel footer-panel fade-up">
     <div>
-      <p class="eyebrow">Together</p>
+      <p class="eyebrow">Tandem</p>
       <p class="muted">Shared tasks, visibility, and practical communication for couples.</p>
     </div>
 

@@ -6,7 +6,7 @@
   <div class="container">
     <div class="panel cta-band fade-up">
       <h2>Make accountability feel collaborative, not exhausting.</h2>
-      <p class="muted">Start Together and build a calmer rhythm for everyday commitments.</p>
+      <p class="muted">Start Tandem and build a calmer rhythm for everyday commitments.</p>
       <div class="button-row">
         <a class="btn btn-primary" href={`${base}/`}>Start free trial</a>
         <a class="btn btn-tertiary" href="mailto:tandemapp@isaacbarham.com">Talk to support</a>

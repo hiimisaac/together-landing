@@ -4,7 +4,7 @@
       <span class="eyebrow">Accountability for Couples</span>
       <h1 id="hero-title">Clarity in commitments. Calm in communication.</h1>
       <p class="muted">
-        Together gives couples one shared system for tasks, status, and in-task chat so follow-through is
+        Tandem gives couples one shared system for tasks, status, and in-task chat so follow-through is
         visible, respectful, and practical.
       </p>
 

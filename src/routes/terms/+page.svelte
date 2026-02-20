@@ -1,8 +1,8 @@
 <svelte:head>
-  <title>Terms and Conditions | Together</title>
+  <title>Terms and Conditions | Tandem</title>
   <meta
     name="description"
-    content="Together Terms and Conditions governing access and use of the Together service."
+    content="Tandem Terms and Conditions governing access and use of the Tandem service."
   />
 </svelte:head>
 
@@ -18,7 +18,7 @@
       <p class="muted">Effective date: February 19, 2026</p>
       <p class="muted">
         These Terms and Conditions (“Terms”) form a legal agreement between you and Isaac Barham,
-        operating Together (“I,” “me,” “my”), governing your use of the Together website and services.
+        operating Tandem (“I,” “me,” “my”), governing your use of the Tandem website and services.
       </p>
     </header>
 
@@ -35,7 +35,7 @@
     <section>
       <h2>2. Service Description</h2>
       <p>
-        Together provides tools for couples to coordinate commitments, including shared tasks, status
+        Tandem provides tools for couples to coordinate commitments, including shared tasks, status
         tracking, reminders, and in-task chat. Features may change over time.
       </p>
     </section>
@@ -58,7 +58,7 @@
     <section>
       <h2>4. User Content</h2>
       <p>
-        You retain ownership of content you submit (tasks, notes, chat messages). You grant Together a
+        You retain ownership of content you submit (tasks, notes, chat messages). You grant Tandem a
         limited license to host, process, and display your content solely to operate and improve the
         service.
       </p>
@@ -92,7 +92,7 @@
     <section>
       <h2>7. Intellectual Property</h2>
       <p>
-        The service, including software, design, trademarks, and content provided by Together, is protected
+        The service, including software, design, trademarks, and content provided by Tandem, is protected
         by intellectual property laws. No ownership rights are transferred to you.
       </p>
     </section>
@@ -100,7 +100,7 @@
     <section>
       <h2>8. Third-Party Services</h2>
       <p>
-        Together may integrate with or rely on third-party providers (including Firebase and Google
+        Tandem may integrate with or rely on third-party providers (including Firebase and Google
         Analytics). We are not responsible for third-party services outside our control.
       </p>
     </section>
@@ -138,7 +138,7 @@
     <section>
       <h2>12. Indemnification</h2>
       <p>
-        You agree to indemnify and hold harmless Together and its personnel from claims, losses, and costs
+        You agree to indemnify and hold harmless Tandem and its personnel from claims, losses, and costs
         arising out of your misuse of the service, your content, or your violation of these Terms.
       </p>
     </section>

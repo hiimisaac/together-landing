@@ -5,7 +5,7 @@
 <SectionShell
   eyebrow="Problem and Solution"
   title="Without a shared system, small misses turn into recurring friction"
-  intro="Together replaces memory-based coordination with explicit commitments, visible progress, and context-aware communication."
+  intro="Tandem replaces memory-based coordination with explicit commitments, visible progress, and context-aware communication."
 >
   <div class="split">
     <article class="panel card problem">
@@ -18,7 +18,7 @@
     </article>
 
     <article class="panel card solution">
-      <h3>How Together changes it</h3>
+      <h3>How Tandem changes it</h3>
       <ul>
         <li>Each commitment has owner, timing, and notes.</li>
         <li>Status is transparent without “did you do it?” loops.</li>
